@@ -4,3 +4,5 @@ Model based on U-net architecture with ResNet-18 encoder for automatically and s
 
 Segmentation of Hard Exudates, Haemorrhages, Microaneurysms and Soft Exudates.
 Classification in 5 classes: No DR, Mild NPDR, Moderate NPDR, Severe NPDR and Proliferative DR.
+
+DDR dataset.
